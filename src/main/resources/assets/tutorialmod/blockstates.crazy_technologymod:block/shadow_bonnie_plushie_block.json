@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "crazy_technologymod:block/shadow_bonnie_plushie_block"
+    },
+    "facing=south": {
+      "model": "crazy_technologymod:block/shadow_bonnie_plushie_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "crazy_technologymod:block/shadow_bonnie_plushie_block",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "crazy_technologymod:block/shadow_bonnie_plushie_block",
+      "y": 90
+    }
+  }
+}
